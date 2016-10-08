@@ -40,6 +40,9 @@
 [submodule "partner-api"]
 	path = partner-api
 	url = git@github.com:polonair/dialtime-partner-api.git
+[submodule "roboprovider"]
+	path = roboprovider
+	url = git@github.com:polonair/dialtime-roboprovider.git
 [submodule "server"]
 	path = server
 	url = git@github.com:polonair/dialtime-server.git
@@ -49,6 +52,9 @@
 [submodule "static"]
 	path = static
 	url = git@github.com:polonair/dialtime-static.git
+[submodule "tcprovider"]
+	path = tcprovider
+	url = git@github.com:polonair/dialtime-tcprovider.git
 [submodule "web"]
 	path = web
 	url = git@github.com:polonair/dialtime-web.git
