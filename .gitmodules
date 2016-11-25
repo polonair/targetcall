@@ -31,6 +31,9 @@
 [submodule "master-api"]
 	path = master-api
 	url = git@github.com:polonair/dialtime-master-api.git
+[submodule "master-frontend"]
+	path = master-frontend
+	url = git@github.com:polonair/dialtime-master-frontend.git
 [submodule "model"]
 	path = model
 	url = git@github.com:polonair/dialtime-model.git
