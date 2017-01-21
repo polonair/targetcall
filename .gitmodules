@@ -4,18 +4,9 @@
 [submodule "builder"]
 	path = builder
 	url = git@github.com:polonair/dialtime-builder.git
-[submodule "admin-api"]
-	path = admin-api
-	url = git@github.com:polonair/dialtime-admin-api.git
-[submodule "api"]
-	path = api
-	url = git@github.com:polonair/dialtime-api.git
 [submodule "combine"]
 	path = combine
 	url = git@github.com:polonair/dialtime-combine.git
-[submodule "combine-api"]
-	path = combine-api
-	url = git@github.com:polonair/dialtime-combine-api.git
 [submodule "common"]
 	path = common
 	url = git@github.com:polonair/dialtime-common.git
@@ -28,42 +19,21 @@
 [submodule "master"]
 	path = master
 	url = git@github.com:polonair/dialtime-master.git
-[submodule "master-api"]
-	path = master-api
-	url = git@github.com:polonair/dialtime-master-api.git
-[submodule "master-frontend"]
-	path = master-frontend
-	url = git@github.com:polonair/dialtime-master-frontend.git
 [submodule "model"]
 	path = model
 	url = git@github.com:polonair/dialtime-model.git
 [submodule "partner"]
 	path = partner
 	url = git@github.com:polonair/dialtime-partner.git
-[submodule "partner-api"]
-	path = partner-api
-	url = git@github.com:polonair/dialtime-partner-api.git
-[submodule "roboprovider"]
-	path = roboprovider
-	url = git@github.com:polonair/dialtime-roboprovider.git
 [submodule "server"]
 	path = server
 	url = git@github.com:polonair/dialtime-server.git
 [submodule "smsi"]
 	path = smsi
 	url = git@github.com:polonair/smsi.git
-[submodule "static"]
-	path = static
-	url = git@github.com:polonair/dialtime-static.git
-[submodule "tcprovider"]
-	path = tcprovider
-	url = git@github.com:polonair/dialtime-tcprovider.git
 [submodule "web"]
 	path = web
 	url = git@github.com:polonair/dialtime-web.git
-[submodule "web-api"]
-	path = web-api
-	url = git@github.com:polonair/dialtime-web-api.git
 [submodule "doc"]
 	path = doc
 	url = git@github.com:polonair/targetcall.wiki.git
