@@ -1,15 +1,9 @@
-[submodule "admin"]
-	path = admin
-	url = git@github.com:polonair/dialtime-admin.git
 [submodule "api"]
 	path = api
 	url = git@github.com:polonair/dialtime-api.git
 [submodule "builder"]
 	path = builder
 	url = git@github.com:polonair/dialtime-builder.git
-[submodule "combine"]
-	path = combine
-	url = git@github.com:polonair/dialtime-combine.git
 [submodule "common"]
 	path = common
 	url = git@github.com:polonair/dialtime-common.git
@@ -22,24 +16,15 @@
 [submodule "gate"]
 	path = gate
 	url = git@github.com:polonair/dialtime-gate.git
-[submodule "master"]
-	path = master
-	url = git@github.com:polonair/dialtime-master.git
 [submodule "model"]
 	path = model
 	url = git@github.com:polonair/dialtime-model.git
-[submodule "partner"]
-	path = partner
-	url = git@github.com:polonair/dialtime-partner.git
 [submodule "server"]
 	path = server
 	url = git@github.com:polonair/dialtime-server.git
 [submodule "smsi"]
 	path = smsi
 	url = git@github.com:polonair/smsi.git
-[submodule "web"]
-	path = web
-	url = git@github.com:polonair/dialtime-web.git
 [submodule "doc"]
 	path = doc
 	url = git@github.com:polonair/targetcall.wiki.git
