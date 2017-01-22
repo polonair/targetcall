@@ -1,6 +1,9 @@
 [submodule "admin"]
 	path = admin
 	url = git@github.com:polonair/dialtime-admin.git
+[submodule "api"]
+	path = api
+	url = git@github.com:polonair/dialtime-api.git
 [submodule "builder"]
 	path = builder
 	url = git@github.com:polonair/dialtime-builder.git
@@ -13,6 +16,9 @@
 [submodule "dialtime"]
 	path = dialtime
 	url = git@github.com:polonair/dialtime.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:polonair/dialtime-frontend.git
 [submodule "gate"]
 	path = gate
 	url = git@github.com:polonair/dialtime-gate.git
