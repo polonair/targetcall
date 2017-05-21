@@ -3,9 +3,7 @@
 	[
 		{
 			"path": "."
-		},
-		{
-			"path": "D:/root/sites/target-coll.ru"
 		}
-	]
+	],
+	"rulers": [ 78, 79 ]
 }
