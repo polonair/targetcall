@@ -3,7 +3,14 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "C:\\Users\\fixni\\my\\sites\\targetcall"
 		}
 	],
-	"rulers": [ 78, 79 ]
+	"rulers":
+	[
+		78,
+		79
+	]
 }
